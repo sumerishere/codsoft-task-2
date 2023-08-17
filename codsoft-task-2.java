@@ -1,3 +1,6 @@
+// students grade calculater based on thier percentage criteria 
+// implemented using core java with console based interface
+
 import java.util.Scanner;
 
 public class GradeCalculator {
